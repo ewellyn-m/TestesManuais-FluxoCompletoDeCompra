@@ -21,4 +21,7 @@ Sistema deve exibir uma mensagem de erro solicitando o preenchimento do campo ob
 ### Resultado Obtido:
 Usuário é redirecionado para a próxima etapa sem validação.
 
+### Evidência:
+<img width="1421" height="694" alt="Captura de Tela 2025-08-06 às 00 27 40" src="https://github.com/user-attachments/assets/39cb9203-8f5e-42ea-9afe-6db87d84540b" />
+
 ### Status: Aberto
